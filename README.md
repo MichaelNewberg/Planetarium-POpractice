@@ -49,3 +49,4 @@ In this sprint you will add on the infrastructure to deploy your Planetarium app
     - you should track how long it takes for all Planetarium apps to handle requests made to the system
 - Error Rate
     - you should track the percentage of how many http requests return a non-500 status code
+change
